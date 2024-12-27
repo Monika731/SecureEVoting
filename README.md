@@ -23,6 +23,7 @@ This project implements a **Secure E-Voting System** using Python, focusing on v
    python3 voter.py
 
 📊 **Outputs**
+
 **EA.py:** 
 Election details with candidates and total voters.
 **Collectors:**
