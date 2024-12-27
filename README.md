@@ -26,9 +26,11 @@ This project implements a **Secure E-Voting System** using Python, focusing on v
 
 **EA.py:** 
 Election details with candidates and total voters.
+
 **Collectors:**
 Partial and aggregated location shares.
 Secret ballots and incremental aggregation.
 Final tally results.
+
 **Voters:** 
 Computed unique location shares and secure ballot submissions.
