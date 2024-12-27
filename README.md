@@ -22,10 +22,12 @@ This project implements a **Secure E-Voting System** using Python, focusing on v
    Run voter.py for each voter to securely cast votes
    python3 voter.py
 
-📊 Outputs
-**EA.py:** Election details with candidates and total voters.
+📊 **Outputs**
+**EA.py:** 
+Election details with candidates and total voters.
 **Collectors:**
 Partial and aggregated location shares.
 Secret ballots and incremental aggregation.
 Final tally results.
-**Voters:** Computed unique location shares and secure ballot submissions.
+**Voters:** 
+Computed unique location shares and secure ballot submissions.
